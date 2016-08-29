@@ -65,7 +65,6 @@ My tip of the week is to learn as much as possible about Docker. Here is a <a hr
 
 
 
-        </footer>
-      </div>
+     
     </div>
 
