@@ -3,19 +3,21 @@ layout: post
 title: Week One
 ---
 <b>What did I do this past week?</b><br>
-<p>dfdfdf</p>
+<p>I really didn't do much for this class other then get this blog page set up.</p>
 
 <b>What's in my way?</b><br>
-<p>dfdfd</p>
+<p>Nothing much in the way...excited about this semester!</p>
 
 
 <b>What will I do next week?</b><br>
-<p>dfdfdf</p>
+<p>Try to get ahead for all my classes.</p>
 
 
 <hr>
-<p class="indented">In the first week of Software Engineering, Professor Downing explained the various tools used in software development to write correct and efficient code. Some of the tools that interested me included the coverage tool, which analyzed how many lines of code in a file were executed and reported results as a percentage. I saw that the better unit tests yielded a higher percentage of code executed. Additionally, I found the Docker platform to be a new and interesting technology which allowed students to quickly gain access to all tools needed to write code, matched with the right versions. The Docker Hub acts as a place to obtain the image which contains all needed tools with the correct specifications, and is simple to download and install on a personal computer. </p><!--more-->
+<p>In the first week of Software Engineering, Professor Downing explained the various tools used in software development to write correct and efficient code. Some of the tools that interested me included the coverage tool, which analyzed how many lines of code in a file were executed and reported results as a percentage. I saw that the better unit tests yielded a higher percentage of code executed. Additionally, I found the Docker platform to be a new and interesting technology which allowed students to quickly gain access to all tools needed to write code, matched with the right versions. The Docker Hub acts as a place to obtain the image which contains all needed tools with the correct specifications, and is simple to download and install on a personal computer. </p>
+
 <p class="indented">One of the main differences in Downing’s lectures compared to other professors is randomly asking students questions about the coding examples rather than simply explaining the concepts himself. I have found this style of lecturing to be helpful in increasing my attentiveness and digestion of the concepts and coding examples being presented, since I do not know when I will be called on to answer questions. In addition, many of the tools and programming practices that Downing has introduced are currently used in the tech industry, which will certainly be helpful when I take part in software development outside of the academic setting.</p>
+
 <p class="indented">The tip of the week is the importance of using testing libraries rather than simply using asserts in test code. A failed assertion will cause the entire program to stop, which is unfavorable behavior when there are tests that still need to be evaluated. On the other hand, the unittest framework will continue to run tests even when some have failed, and will provide a comprehensive summary of the test results after all tests have been executed.</p>
 
 <hr>
