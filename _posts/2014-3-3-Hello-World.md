@@ -1,4 +1,4 @@
-    <div id="main" role="main" class="container">
+<div id="main" role="main" class="container">
       <article class="post">
   <h1>Week 1 Post</h1>
 
@@ -48,23 +48,3 @@ My tip of the week is to learn as much as possible about Docker. Here is a <a hr
       </script>
       <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
     </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-
-
-
-<a href="https://github.com/ace-jc/"><i class="svg-icon github"></i></a>
-
-
-
-
-
-
-
-
-     
-    </div>
-
