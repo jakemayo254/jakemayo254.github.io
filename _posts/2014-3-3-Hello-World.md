@@ -3,14 +3,14 @@ layout: post
 title: Week One
 ---
 <b>What did I do this past week?</b><br>
-<p></p>
+<p>dfdfdf</p>
 
 <b>What's in my way?</b><br>
-<p></p>
+<p>dfdfd</p>
 
 
 <b>What will I do next week?</b><br>
-<p></p>
+<p>dfdfdf</p>
 
 
 <hr>
@@ -20,5 +20,5 @@ title: Week One
 
 <hr>
 <b>Tip of the Week</b><br>
-My tip of the week is to learn as much as possible about Docker. Here is a [link](https://blog.risingstack.com/operating-system-containers-vs-application-containers/) which compares containers to full blown VMs.
+<p>My tip of the week is to learn as much as possible about Docker. Here is a link which compares containers to full blown VMs.</p>
   
