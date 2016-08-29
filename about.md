@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm excited about taking this class!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+DJ Mayo!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jakemayo254@gmail.com](mailto:email@domain.com)
